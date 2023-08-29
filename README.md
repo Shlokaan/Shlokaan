@@ -10,7 +10,7 @@ Objective:
  A Computer Science professional seeking challenging opportunity to work for an organization to enhance my knowledge, skills and techniques which can benefit the organization.
 
 Technical Skills:	
-Languages	  Basics in C, 
+Basics in C, 
 Java, 
 Python, 
 Databases, 
@@ -43,8 +43,7 @@ Jogging, Cricket,Cycling, Shuttle Badminton, watching Vlogs
 
 Languages Known:
 
-LANGUAGE	English    Kannada	 Hindi	
-WRITE	      ✓	          ✓       ✓
-SPEAK       ✓           ✓       --
-
+English(fluency)
+Kannada(native)
+Hindi(managable)
 
